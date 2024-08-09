@@ -94,9 +94,14 @@ This repository presents a comprehensive comparative analysis of Standard Partic
 - Convenient surface plot utility.
 - Easy access to basic functions f1 to f19 (e.g., Ackley, Discus, etc.).
 
+As per the problem definitions, functions are defined for 10, 30, 50, and 100 dimensions, with functions f1 to f10 and f21 to f28 also being defined for 2 and 20 dimensions. If you provide custom rotation matrices (and shuffles, where applicable), you can, however, use arbitrary dimensions. Below are some surface plots for functions f1 to f10 over 2 dimensions.
+
 ## Visual Representation
 
 ![CEC2017 Functions Surface Plot](https://raw.githubusercontent.com/tilleyd/cec2017-py/master/extra/plots.jpg)
+
+[1] Awad, N. H., Ali, M. Z., Suganthan, P. N., Liang, J. J., & Qu, B. Y. (2016). Problem Definitions and Evaluation Criteria for the CEC 2017 Special Session and Competition on Single Objective Bound Constrained Real-Parameter Numerical Optimization.
+
 
 
 ## Results Highlight
