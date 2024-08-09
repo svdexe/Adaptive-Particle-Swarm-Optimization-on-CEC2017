@@ -117,4 +117,4 @@ We propose a novel two-stage application of APSO to the bin packing problem:
 
 This approach leverages APSO's demonstrated strengths in both continuous (clustering) and discrete (packing) optimization spaces, potentially offering more flexible and efficient solutions to complex, multi-stage optimization challenges.
 
-## Repository Structure
+
